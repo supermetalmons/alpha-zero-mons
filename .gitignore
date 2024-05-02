@@ -11,3 +11,14 @@ checkpoints/
 # For PyCharm users
 .idea/
 
+# Virtual environment directories
+venv/
+env/
+ENV/
+
+# Python virtual environment specific files
+*.py[cod]
+__pycache__/
+pyvenv.cfg
+pip-log.txt
+pip-delete-this-directory.txt
